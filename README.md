@@ -1,4 +1,4 @@
-# DESICION THEORY 
+#DECISION THEORY 
 
 Εφαρμογή που αναπτύχθηκε στα πλαίσια της εξαμηνιαίας εργασίας για το μάθημα Θεωρία Αποφάσεων
 
@@ -10,7 +10,7 @@
 * pip3 install Python3 
 * pip3 install jupyter notebook
 * Από βιβλιοθήκες είναι οι εξής: 
-* imblearn.pipeline--->Pipeline,
+* imblearn.pipeline--->Pipeline
 * sklearn.feature_selection--->VarianceThreshold
 * sklearn.preprocessing----->MinMaxScaler 
 * sklearn.preprocessing----->StandardScaler
